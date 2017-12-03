@@ -1,0 +1,36 @@
+/* You may use the following selectors, but it's not required. */
+
+body {
+	font-family: Lancelot;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#header {
+	font-size: 30px;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 20px 20px 20px 20px;
+}
+
+#subheader {
+	font-style: italic;
+	padding: 0px 20px 20px 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+#link {
+	width:200px;
+	background-color: #04615E;
+	color: #fff;
+	front-weight: bold;
+	padding: 20px 15px;
+	margin: 35px auto 20px;
+}
+
+.list-
+
+}
